@@ -15,10 +15,10 @@ public String replacement (String str1){
 	
 }
 
-	/*   public static void main(String args[]) {
-		   StringClass s = new StringClass();
+	   public static void main(String args[]) {
+		  StringClass s = new StringClass();
 				   System.out.println(s.concatenation("I'm right "));  
-				   System.out.println(s.replacement("test test test and nothing more")); 
+				   System.out.println(s.replacement("test")); 
 	   }
-*/
+
 }
